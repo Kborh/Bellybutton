@@ -9,9 +9,7 @@ for each individual.
 
 
 
-
-
-<img  src="https://user-image.githubusercontent.com/foo/bar/dashboard.png">
+![](/image/dashboard.png)
 
 
 
