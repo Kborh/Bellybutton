@@ -11,7 +11,7 @@ for each individual.
 
 
 
-<img alt="Description" src="https://user-image.githubusercontent.com/foo/bar/dashboard.png">
+<img  src="https://user-image.githubusercontent.com/foo/bar/dashboard.png">
 
 
 
